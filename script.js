@@ -12,32 +12,32 @@ const progressBar = document.querySelector(".progress-bar");
 
 const songLinks = [
   {
-    songId: "../../music project/Our_Beloved_Summer__OST_Part.1(480p).mp3",
+    songId: "musics/Our_Beloved_Summer__OST_Part.1(480p).mp3",
     imgsrc: "our beloved summer.png",
     songName: "Our Beloved Summer",
   },
   {
-    songId: "../../music project/song.mp3",
+    songId: "musics/song.mp3",
     imgsrc: "let me know img.jpg",
     songName: "Let Me Know",
   },
   {
-    songId: "../../music project/song1.mp3",
+    songId: "musics/song1.mp3",
     imgsrc: "christmas tree.jpeg",
     songName: "Christmas Tree",
   },
   {
-    songId: "../../music project/song2.mp3",
+    songId: "musics/song2.mp3",
     imgsrc: "enchanted img.jpg",
     songName: "Enchanted By Taylor Swift",
   },
   {
-    songId: "../../music project/song3.mp3",
+    songId: "musics/song3.mp3",
     imgsrc: "give me your forever.jpeg",
     songName: "Give Me Your Forever",
   },
   {
-    songId: "../../music project/song4.mp3",
+    songId: "musics/song4.mp3",
     imgsrc: "take me to your heart.jpg",
     songName: "Take Me To Your Heart",
   },
